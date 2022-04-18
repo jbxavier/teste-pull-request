@@ -1,1 +1,2 @@
 teste@email.com
+outro@email.com
